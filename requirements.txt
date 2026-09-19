@@ -1,2 +1,6 @@
 python-telegram-bot==21.1.1
+gTTS
+pytz
 requests
+httpx
+
